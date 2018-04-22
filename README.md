@@ -1,3 +1,1 @@
-# startingpoint
-
-Set up html page view for About this site and Our Team.
+This was the final project completed for Code Fellows code school.
